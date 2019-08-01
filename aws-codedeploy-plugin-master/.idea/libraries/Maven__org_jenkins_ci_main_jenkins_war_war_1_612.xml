@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jenkins-ci.main:jenkins-war:war:1.612">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/main/jenkins-war/1.612/jenkins-war-1.612.war!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/main/jenkins-war/1.612/jenkins-war-1.612-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jenkins-ci/main/jenkins-war/1.612/jenkins-war-1.612-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
